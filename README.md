@@ -1,6 +1,6 @@
 # 🌲 Brand Knowledge Base Auto-Builder
 
-[![Open In Colab][(https://github.com/humbeaniket2006-max/-brand-knowledge-builder/blob/main/Brand_Knowledge_Builder_(1).ipynb)](https://colab.research.google.com/drive/17rxm7vwbNMdXZwkrD2_fGjzyvAlQaHcc)
+[Open In Colab][(https://github.com/humbeaniket2006-max/-brand-knowledge-builder/blob/main/Brand_Knowledge_Builder_(1).ipynb)](https://colab.research.google.com/drive/17rxm7vwbNMdXZwkrD2_fGjzyvAlQaHcc)
 
 > Built for **PineOS** — the AI operating system for brand intelligence.
 
